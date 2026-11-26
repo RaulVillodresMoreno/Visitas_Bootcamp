@@ -1,4 +1,4 @@
-""" Repaso Modulos de librería estándar Python
+""" Calculo de la tasa de conversión cómo comversion/visitas expresada en %
 
 Solo usa módulos de la librería estándar de Python.
 """
