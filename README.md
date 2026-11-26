@@ -36,3 +36,6 @@ Añade aquí tu nombre mediante una rama y una pull request.
 1. ¿Es correcto el numerador y el denominador?
 2. ¿Los datos permiten medir conversiones por persona o solo por visita?
 3. ¿Qué archivos han cambiado en la pull request?
+
+## COSECHA PROPIA
+Git es util para el control de versiones
