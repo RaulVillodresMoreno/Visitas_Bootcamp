@@ -1,4 +1,4 @@
-"""KPI de ejemplo para las prácticas de Git y GitHub.
+""" Repaso Modulos de librería estándar Python
 
 Solo usa módulos de la librería estándar de Python.
 """
