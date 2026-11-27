@@ -40,3 +40,5 @@ Añade aquí tu nombre mediante una rama y una pull request.
 ## COSECHA PROPIA
 Git es util para el control de versiones
 Esta linea es exclusiva de la rama principal
+
+KPI: Key Performance Indicator (Indicador Clave de Rendimiento), mide el rendimiento específico dentro de una empresa.
