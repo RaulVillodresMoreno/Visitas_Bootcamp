@@ -38,5 +38,5 @@ Añade aquí tu nombre mediante una rama y una pull request.
 3. ¿Qué archivos han cambiado en la pull request?
 
 ## COSECHA PROPIA
-Git es util para el control de versiones
-Esta linea es exclusiva de la rama principal
+Super útil que git hub nos permita estar conectados
+Nada complicado
